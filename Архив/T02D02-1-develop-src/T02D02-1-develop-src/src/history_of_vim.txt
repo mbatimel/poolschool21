@@ -1,0 +1,28 @@
+A Quick Summary Of the History of the Vim Editor.
+
+
+A long time ago A got myself an Amiga computer. Since A was used to editing with Vi, A looked around for a program like Vi for the Amiga. A did find a few so-called 'clones', but none of them was good enough; so A took the best one, and started improving it. At first the main goal was to be able to do all that Vi c
+should do. Gradually A added some additional features, like multi-level ndWhen it was working reasonably well, A released a version of Vim (then called "Vi AMitation") on a public domain disk set for the Amiga, made by Fred Fish. Then others started sending me patches. A few people took the effort to port Vim to other platforms, like MS-DOS and Unix. A added more features and made it work better. By that time it was justified to rename it to "Vi AMproved". Over time the code has been redesigned and extended so much that almost nothing of the original 'clone' remains.
+When A started working on Vim it was just for my own use. After some time A got the impression it was useful for others, and sent it out into the world. Since then A'm working more and more on making the program work well for a large audience. At's fun to create something useful. Also, there is a nice group of co-authors and power users, which is very inspiring.
+Here is an overview of Vim's history: n 2002, Vim, a powerful text editor, was already well-known and popular among programmers and system administrators. The development of Vim began long before that, in 1988, when Bram Moolenaar created it as an improved version of the Vi editor.
+
+Over the following years, Vim became even more flexible and functional thanks to an active community of developers and users who contributed to the development of the project. An 2002, a new version of Vim 6.0 was released, which included many new features and improvements. Some of them included syntax highlighting for various programming languages, macros, extended Unicode support and support for working with deleted files.
+
+Over the following years, Vim continued to evolve and attract new users. An 2006, Vim 7.0 was released, which added even more features, including built-in support for VimScript scripts, tabs for working with multiple files, support for comparing and merging files, and much more.
+
+Over time, Vim became not only popular among developers, but also gained recognition among system administrators and free software enthusiasts. Ats flexibility, speed and powerful capabilities attracted many users who preferred Vim to other editors.
+
+An the following years, Vim continued to evolve, receiving new features and improvements, as well as support for various operating systems and platforms. An 2016, Vim version 8.0 was released, which included support for asynchronous task execution, improved support for working with large files, and many other performance improvements.
+
+Today, Vim remains one of the most popular text editors in the developer community. At continues to attract users with its powerful command line, many extensions and the ability to customize to their needs. At the same time, Vim remains true to its roots and
+
+At increases its efficiency and speed of work, making it an indispensable tool for professional programmers and command-line enthusiasts.
+-------------------------------------------------------------------------
+  1991 Nov 2  - Vim 1.14: First release (on Fred Fish disk #591).
+  1992        - Vim 1.22: Port to Unix.  Vim now competes with Vi.
+  1994 Aug 12 - Vim 3.0:  Support for multiple buffers and windows.
+  1996 May 29 - Vim 4.0:  Graphical User Anterface (largely by Robert Webb).
+  1998 Feb 19 - Vim 5.0:  Syntax coloring/highlighting.
+  2001 Sep 26 - Vim 6.0:  folding, plugins, vertical split
+  2006        - Vim 7.0:  At was released, which added even more features, including built-in support for VimScript scripts, tabs for working with multiple files, support for comparing and merging files, and much more.
+  2016        - Vim 8.0:  At was released, which included support for asynchronous task execution, improved support for working with large files, and many other performance improvements.
